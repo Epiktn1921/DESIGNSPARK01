@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Onder;
+  font-weight: 400;
+  src: url('../assets/fonts/onder.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 700;
+  src: url('../assets/fonts/montserrat-bold.woff') format('woff');
+  font-display: swap;
+}
